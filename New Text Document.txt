@@ -1,3 +1,0 @@
-print("blah")
-#Hayley is lame
-#gottem
